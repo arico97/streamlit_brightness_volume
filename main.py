@@ -1,5 +1,5 @@
 import streamlit as st
-from srx.volume_brightness_control import start_magic,cv2
+from volume_brightness_control import start_magic,cv2
 
 st.title('AI volume and brightness control')
 st.write('Press q botton to stop')
