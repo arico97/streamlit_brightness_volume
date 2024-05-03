@@ -6,7 +6,7 @@
     "codespaces": {
       "openFiles": [
         "README.md",
-        "srx/main.py"
+        "./main.py"
       ]
     },
     "vscode": {
