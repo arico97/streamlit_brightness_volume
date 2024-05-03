@@ -2,4 +2,4 @@
 
 First install the ``requirements.txt``. 
 
-Then run the streamlit app: ``streamlit run ./srx/main.py``
+Then run the streamlit app: ``streamlit run ./main.py``
